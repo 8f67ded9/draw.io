@@ -1,0 +1,95 @@
+Added Component: Designator=H3(SIP20_1.27_half)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(SIP22_10_1.27-mir)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(SIP22_10_1.27)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LCD_D18 Pin=H3-1
+Added Pin To Net: NetName=LCD_D19 Pin=H3-2
+Added Pin To Net: NetName=LCD_D20 Pin=H3-3
+Added Pin To Net: NetName=LCD_D21 Pin=H3-4
+Added Pin To Net: NetName=LCD_D22 Pin=H3-5
+Added Pin To Net: NetName=LCD_D23 Pin=H3-6
+Added Pin To Net: NetName=LCD_D10 Pin=H3-7
+Added Pin To Net: NetName=LCD_D11 Pin=H3-8
+Added Pin To Net: NetName=LCD_D12 Pin=H3-9
+Added Pin To Net: NetName=LCD_D13 Pin=H3-10
+Added Pin To Net: NetName=LCD_D14 Pin=H3-11
+Added Pin To Net: NetName=LCD_D15 Pin=H3-12
+Added Pin To Net: NetName=LCD_D2 Pin=H3-13
+Added Pin To Net: NetName=LCD_D3 Pin=H3-14
+Added Pin To Net: NetName=LCD_D4 Pin=H3-15
+Added Pin To Net: NetName=LCD_D5 Pin=H3-16
+Added Pin To Net: NetName=LCD_D6 Pin=H3-17
+Added Pin To Net: NetName=LCD_D7 Pin=H3-18
+Added Pin To Net: NetName=LCD_CLK Pin=H3-19
+Added Pin To Net: NetName=LCD_HSYNC Pin=H3-20
+Added Pin To Net: NetName=LCD_VSYNC Pin=H4-1
+Added Pin To Net: NetName=LCD_DE Pin=H4-2
+Added Pin To Net: NetName=DA_MCLK Pin=H4-3
+Added Pin To Net: NetName=DA_MCLK Pin=H4-3
+Added Pin To Net: NetName=SDC0_D1 Pin=H4-4
+Added Pin To Net: NetName=CLK_OUT Pin=H4-5
+Added Pin To Net: NetName=CLK_OUT Pin=H4-5
+Added Pin To Net: NetName=SDC0_D0 Pin=H4-6
+Added Pin To Net: NetName=CSI_D7 Pin=H4-7
+Added Pin To Net: NetName=CSI_D7 Pin=H4-7
+Added Pin To Net: NetName=SDC0_CLK Pin=H4-8
+Added Pin To Net: NetName=CSI_D6 Pin=H4-9
+Added Pin To Net: NetName=CSI_D6 Pin=H4-9
+Added Pin To Net: NetName=SDC0_CMD Pin=H4-10
+Added Pin To Net: NetName=CSI_D5 Pin=H4-11
+Added Pin To Net: NetName=CSI_D5 Pin=H4-11
+Added Pin To Net: NetName=SDC0_D3 Pin=H4-12
+Added Pin To Net: NetName=CSI_D4 Pin=H4-13
+Added Pin To Net: NetName=CSI_D4 Pin=H4-13
+Added Pin To Net: NetName=SDC0_D2 Pin=H4-14
+Added Pin To Net: NetName=CSI_D3 Pin=H4-15
+Added Pin To Net: NetName=CSI_D3 Pin=H4-15
+Added Pin To Net: NetName=SPI0_CLK Pin=H4-16
+Added Pin To Net: NetName=CSI_D2 Pin=H4-17
+Added Pin To Net: NetName=CSI_D2 Pin=H4-17
+Added Pin To Net: NetName=SPI0_CS Pin=H4-18
+Added Pin To Net: NetName=CSI_D1 Pin=H4-19
+Added Pin To Net: NetName=CSI_D1 Pin=H4-19
+Added Pin To Net: NetName=SPI0_MISO Pin=H4-20
+Added Pin To Net: NetName=CSI_D0 Pin=H4-21
+Added Pin To Net: NetName=CSI_D0 Pin=H4-21
+Added Pin To Net: NetName=SPI0_MOSI Pin=H4-22
+Added Pin To Net: NetName=HPCOMFB Pin=H5-1
+Added Pin To Net: NetName=HPCOM Pin=H5-2
+Added Pin To Net: NetName=PA3 Pin=H5-3
+Added Pin To Net: NetName=PA3 Pin=H5-3
+Added Pin To Net: NetName=HPL Pin=H5-4
+Added Pin To Net: NetName=PA2 Pin=H5-5
+Added Pin To Net: NetName=PA2 Pin=H5-5
+Added Pin To Net: NetName=HPR Pin=H5-6
+Added Pin To Net: NetName=PA1 Pin=H5-7
+Added Pin To Net: NetName=PA1 Pin=H5-7
+Added Pin To Net: NetName=MICIN Pin=H5-8
+Added Pin To Net: NetName=PA0 Pin=H5-9
+Added Pin To Net: NetName=PA0 Pin=H5-9
+Added Pin To Net: NetName=LINEIN Pin=H5-10
+Added Pin To Net: NetName=3V3 Pin=H5-11
+Added Pin To Net: NetName=3V3 Pin=H5-11
+Added Pin To Net: NetName=RESET Pin=H5-12
+Added Pin To Net: NetName=GND Pin=H5-13
+Added Pin To Net: NetName=GND Pin=H5-13
+Added Pin To Net: NetName=LRADC Pin=H5-14
+Added Pin To Net: NetName=5V Pin=H5-15
+Added Pin To Net: NetName=5V Pin=H5-15
+Added Pin To Net: NetName=3V0 Pin=H5-16
+Added Pin To Net: NetName=CSI_HSYNC Pin=H5-17
+Added Pin To Net: NetName=CSI_HSYNC Pin=H5-17
+Added Pin To Net: NetName=TV_OUT Pin=H5-18
+Added Pin To Net: NetName=CSI_VSYNC Pin=H5-19
+Added Pin To Net: NetName=CSI_VSYNC Pin=H5-19
+Added Pin To Net: NetName=USB_DP Pin=H5-20
+Added Pin To Net: NetName=CSI_PCLK Pin=H5-21
+Added Pin To Net: NetName=CSI_PCLK Pin=H5-21
+Added Pin To Net: NetName=USB_DM Pin=H5-22
+Added Pin To Net: NetName=VRA1 Pin=U2-81
+Added Pin To Net: NetName=VRA2 Pin=U2-83
+Added Member To Class: ClassName=licheepi_nano_pcb Member=Component H3 HEADER_TOP
+Added Member To Class: ClassName=licheepi_nano_pcb Member=Component H4 HEADER_LEFT
+Added Member To Class: ClassName=licheepi_nano_pcb Member=Component H5 HEADER_RIGHT
