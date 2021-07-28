@@ -1,23 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T03:15:12.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="f1vtDUqLqNBbiSLTx1dU" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T03:58:41.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="RFXfCqE0pXgdr3_3BbnQ" version="14.9.2" type="github">
   <diagram id="Z3OCCW9i6i9mW61EfXmo" name="Page-1">
-    <mxGraphModel dx="1145" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2443" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uKBscEt1cLnzFMgbvziy-1" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="660" width="175" height="20" as="geometry" />
+        <mxCell id="tf-pIXWtUwmws97yPlrb-39" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; MTK板" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="640" width="1060" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-37" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="650" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uKBscEt1cLnzFMgbvziy-1" value="MTK CPU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="650" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uKBscEt1cLnzFMgbvziy-3" value="测温" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="660" width="36" height="20" as="geometry" />
+          <mxGeometry x="34" y="660" width="36" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uKBscEt1cLnzFMgbvziy-4" value="测温" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="660" width="36" height="20" as="geometry" />
+          <mxGeometry x="74" y="660" width="36" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uKBscEt1cLnzFMgbvziy-5" value="EEPROM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="660" width="60" height="20" as="geometry" />
+          <mxGeometry x="114" y="660" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uKBscEt1cLnzFMgbvziy-6" value="加热电阻" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="660" width="60" height="20" as="geometry" />
+          <mxGeometry x="180" y="660" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uKBscEt1cLnzFMgbvziy-7" value="UFS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="660" width="210" height="20" as="geometry" />
@@ -314,7 +320,7 @@
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tf-pIXWtUwmws97yPlrb-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="919" y="680" as="targetPoint" />
+            <mxPoint x="919" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-1" value="USB 3.0 HUB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -329,8 +335,11 @@
         <mxCell id="tf-pIXWtUwmws97yPlrb-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="825" y="730" as="sourcePoint" />
-            <mxPoint x="825" y="682" as="targetPoint" />
+            <mxPoint x="825" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tf-pIXWtUwmws97yPlrb-7" target="tf-pIXWtUwmws97yPlrb-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-7" value="&lt;font style=&quot;font-size: 36px&quot;&gt;ADC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="740" width="100" height="230" as="geometry" />
@@ -382,6 +391,56 @@
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-4" value="MTK_VCC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="794" y="860" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-23" value="&amp;nbsp;MCU" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="827.5" width="410" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-24" value="SPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="840" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tf-pIXWtUwmws97yPlrb-25" target="uKBscEt1cLnzFMgbvziy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.528;entryY=1.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tf-pIXWtUwmws97yPlrb-25" target="uKBscEt1cLnzFMgbvziy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tf-pIXWtUwmws97yPlrb-25" target="uKBscEt1cLnzFMgbvziy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-25" value="I2C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-26" value="GPIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232" y="840" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tf-pIXWtUwmws97yPlrb-28" target="tf-pIXWtUwmws97yPlrb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-28" value="温控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168" y="840" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tf-pIXWtUwmws97yPlrb-30" target="uKBscEt1cLnzFMgbvziy-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="194" y="760" />
+              <mxPoint x="210" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-30" value="MOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="780" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-38" value="USB 转 SPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="930" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.053;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-36.99999999999977" y="740" as="sourcePoint" />
+            <mxPoint x="-35.819999999999936" y="702.3399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-42" value="ID电阻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="740" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
