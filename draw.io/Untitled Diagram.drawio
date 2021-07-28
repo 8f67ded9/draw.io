@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T05:09:39.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="GEns8_g8zxbjvKuQDXAL" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T05:12:31.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="kov3Hd86L9phKNeIpVvm" version="14.9.2" type="github">
   <diagram id="Z3OCCW9i6i9mW61EfXmo" name="Page-1">
     <mxGraphModel dx="2201" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-100" y="720" width="1040" height="380" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="610" width="1130" height="510" as="geometry" />
+          <mxGeometry x="-120" y="600" width="1130" height="520" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;align=left;" vertex="1" parent="1">
           <mxGeometry x="-100" y="720" width="1050" height="380" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="560" y="730" width="330" height="260" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-39" value="&lt;b&gt;MTK板&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="640" width="1070" height="60" as="geometry" />
+          <mxGeometry x="-100" y="630" width="1070" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-37" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="650" width="790" height="40" as="geometry" />
+          <mxGeometry x="20" y="640" width="790" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uKBscEt1cLnzFMgbvziy-1" value="MTK CPU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="650" width="110" height="40" as="geometry" />
@@ -598,7 +598,7 @@
           <mxGeometry x="-100" y="720" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-101" value="底板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-120" y="610" width="30" height="20" as="geometry" />
+          <mxGeometry x="-120" y="600" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-105" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -631,7 +631,7 @@
           <mxGeometry x="882" y="757.66" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-143" value="&lt;font color=&quot;#7f00ff&quot; style=&quot;font-size: 24px&quot;&gt;x16&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="920" y="621" width="40" height="20" as="geometry" />
+          <mxGeometry x="965" y="655" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-147" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1031,17 +1031,137 @@
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-242" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-7.5" y="640" as="sourcePoint" />
-            <mxPoint x="-7.739999999999782" y="629.9999999999998" as="targetPoint" />
+            <mxPoint x="-10" y="630" as="sourcePoint" />
+            <mxPoint x="-10.239999999999782" y="621.4999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-243" value="5V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-17.5" y="618.5" width="20" height="10" as="geometry" />
+          <mxGeometry x="-20" y="610" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tf-pIXWtUwmws97yPlrb-244" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2" y="630" as="sourcePoint" />
-            <mxPoint x="-17" y="630" as="targetPoint" />
+            <mxPoint x="-0.5" y="621.5" as="sourcePoint" />
+            <mxPoint x="-19.5" y="621.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-245" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="52" y="660" as="sourcePoint" />
+            <mxPoint x="51.76000000000022" y="652.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-246" value="3.3V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="42" y="641" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-247" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="61.5" y="652.5000000000001" as="sourcePoint" />
+            <mxPoint x="42.500000000000114" y="652.5000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-250" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="92" y="660" as="sourcePoint" />
+            <mxPoint x="91.76000000000022" y="652.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-251" value="3.3V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="82" y="641" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-252" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="101.5" y="652.5" as="sourcePoint" />
+            <mxPoint x="82.5" y="652.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-253" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="144" y="660" as="sourcePoint" />
+            <mxPoint x="143.76000000000022" y="652.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-254" value="3.3V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="134" y="641" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-255" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153.5" y="652.5" as="sourcePoint" />
+            <mxPoint x="134.5" y="652.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-258" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="502" y="740" as="sourcePoint" />
+            <mxPoint x="501.7600000000002" y="732.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-259" value="3.3V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="492" y="721" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-260" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511.5" y="732.5" as="sourcePoint" />
+            <mxPoint x="492.5" y="732.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-261" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588" y="950" as="sourcePoint" />
+            <mxPoint x="587.7600000000002" y="941.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-262" value="12V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="578" y="930" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-263" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="597.5" y="941.5" as="sourcePoint" />
+            <mxPoint x="578.5" y="941.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-264" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="678" y="920" as="sourcePoint" />
+            <mxPoint x="677.7600000000002" y="911.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-265" value="12V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="668" y="900" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-266" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="687.5000000000002" y="911.5" as="sourcePoint" />
+            <mxPoint x="668.5" y="911.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-270" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="748" y="890" as="sourcePoint" />
+            <mxPoint x="747.7600000000002" y="881.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-271" value="12V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="738" y="870" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-272" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="757.5000000000002" y="881.5" as="sourcePoint" />
+            <mxPoint x="738.5" y="881.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-273" value="" style="endArrow=none;html=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="860" as="sourcePoint" />
+            <mxPoint x="829.7600000000002" y="851.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-274" value="12V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="820" y="840" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tf-pIXWtUwmws97yPlrb-275" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="839.5000000000002" y="851.5" as="sourcePoint" />
+            <mxPoint x="820.5" y="851.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
